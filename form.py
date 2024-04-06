@@ -21,4 +21,7 @@ elif school=="School of management":
 s=int(input("Enter semester:"))
 h=input("Course name:")
 j=input("Course code:")
-k=input("Faculty name:")
+k=input("Faculty name:")print("Enter behaviour of teacher")
+n=input("select option:")
+if n=="yes" or n=="no":
+    print(n)
