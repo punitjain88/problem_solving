@@ -79,4 +79,9 @@ elif b==4:
 else:
     None
 
-print(o2)
+
+print("teacher allow mobile phone in class-"):
+n=("/yes or /no")
+
+
+
