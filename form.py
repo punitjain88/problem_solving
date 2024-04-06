@@ -1,5 +1,5 @@
 # solving a task
-name=input("First Name: ")
+print("student feedback form")name=input("First Name: ")
 surname=input("Last Name:")
 email=input("email: ")
 contact=int(input("Contact: "))
