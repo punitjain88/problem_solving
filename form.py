@@ -1,14 +1,7 @@
-# solving a task
+ # solving a task
 name=input("First Name: ")
 surname=input("Last Name:")
-
-while True:
-    email=input("email: ")
-    if '@' in email:
-        break
-    else :
-        print("Invalid email id")
-
+email=input("email: ")
 contact=int(input("Contact: "))
 school=input("school:")
 if school=="School of engineering":
@@ -85,5 +78,12 @@ elif b==4:
 
 else:
     None
+    a=0
+    print("teacher do attendance daily:")
+    print("yes")
+    print("no")
+    a=int(input("a="))
+    
+    
 
 print(o2)
